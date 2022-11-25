@@ -1,0 +1,6 @@
+marks_obtained=eng+maths+computer+urdu+chemistry
+average= (marks_obtain)/5
+percentage=((marks_obtained)/500)*100
+print("the total marks=",marks_obtained)
+print(average)
+print(percentage)
