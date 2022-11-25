@@ -1,0 +1,8 @@
+eng= int(input("enter the marks"))
+maths= int(input("enter the marks"))
+urdu= int(input("enter the marks"))
+computer= int(input("enter the marks"))
+chemistry= int(input("enter the marks"))
+print(eng,maths,urdu,computer,chemistry)
+marks_obtain=eng+maths+urdu+computer+chemistry
+total_marks=500
