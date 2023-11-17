@@ -1,0 +1,2 @@
+sub= input("enter the marks")
+print(sub)
